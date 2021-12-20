@@ -1,0 +1,25 @@
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+inference/
+inference_results/
+output/
+ch_ppocr_server_v2.0_rec_pre/
+
+*.DS_Store
+*.vs
+*.user
+*~
+*.vscode
+*.idea
+ch_ppocr_server_v2.0_rec_pre.tar
+download_ruankao_score_captcha.py
+online_ocr_test.py
+solver.py
+test_paddle_orc.py
+

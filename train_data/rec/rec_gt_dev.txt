@@ -1,0 +1,10 @@
+word_8_8640.jpg	8640
+word_9_2019.jpg	2019
+word_4_6754.jpg	6754
+word_1_8212.jpg	8212
+word_5_5717.jpg	5717
+word_2_5315.jpg	5315
+word_7_5059.jpg	5059
+word_0_7162.jpg	7162
+word_6_9048.jpg	9048
+word_3_5140.jpg	5140
